@@ -24,4 +24,4 @@ python main.py
 ```
 
 
-Created as part of the MCA Capstone Project (2025)
+Created as part of college Project
