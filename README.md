@@ -22,6 +22,8 @@ pip install -r requirements.txt
 Create a .env file with: API_KEY=your_api_key_here
 python main.py
 ```
-
+## using pyinstaller
+```bash
+pyinstaller --onefile --noconsole --icon=images/logo.ico main.py
 
 Created as part of college Project
